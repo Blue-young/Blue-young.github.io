@@ -19,5 +19,3 @@ int main(){
 `This is Blue_young`
 # [洛谷主页(千万不要去)](https://www.luogu.com.cn/paste/0jeht3zy)
 # 推荐 : [我的世界的团队](https://www.luogu.com.cn/team/62858)
-
-$\color{white}别用base64解这句话:5Yir55yL5oiR572u6aG25Y2a5a6i5pyA5ZCO5LiA5Y+l6K+dKOeZvSk=$
